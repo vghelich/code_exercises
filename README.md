@@ -1,1 +1,1 @@
-# code_exercises
+# poker-exercise
